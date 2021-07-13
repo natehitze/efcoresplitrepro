@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebApi", "DemoWebApi\DemoWebApi.csproj", "{56AB7035-9C05-465F-AD77-391B1EBC1729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunMe", "RunMe\RunMe.csproj", "{628B8551-3659-4302-AD1F-D5ED813CDD11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AB7035-9C05-465F-AD77-391B1EBC1729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AB7035-9C05-465F-AD77-391B1EBC1729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AB7035-9C05-465F-AD77-391B1EBC1729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AB7035-9C05-465F-AD77-391B1EBC1729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628B8551-3659-4302-AD1F-D5ED813CDD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628B8551-3659-4302-AD1F-D5ED813CDD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628B8551-3659-4302-AD1F-D5ED813CDD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628B8551-3659-4302-AD1F-D5ED813CDD11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
